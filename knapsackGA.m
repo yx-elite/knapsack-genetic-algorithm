@@ -18,7 +18,7 @@ nItems = length(weights);
 
 % Define three constraints
 maxWeightLimit = 30;
-maxVolumeLimit = 60;
+maxVolumeLimit = 50;
 maxItemsSelected = 5;
 
 % Define general parameters
